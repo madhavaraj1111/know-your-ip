@@ -1,8 +1,8 @@
 import { defineConfig } from "vite";
-import { resolve } from "path";
+
 
 export default defineConfig({
-  // base: '/YOUR_BASE/'
+  base: '/know-your-ip/'
   //   build: {
   //     rollupOptions: {
   //       input: {
